@@ -20,6 +20,10 @@
 
 ## My specific .config files 📑 are all up there to find.
 
+## The cursor is https://github.com/RandomLegend/dotfiles-comfycorner/blob/main/Bibata-Modern-Ice.tar.gz
+## The GTK Theme is: https://github.com/RandomLegend/dotfiles-comfycorner/blob/main/Catppuccin-Mocha-BL-LB.tar.gz
+## The QT Theme is default breeze with the default bismuth window decorations.
+
 ## Make sure to install all needed applications and their dependencies before applying any of my .config files.
 ## For the Rofi launcher and powermenu, you have to bind the launcher.sh and powermenu.sh in the ~/.config/rofi directory to your desired keybinding. KDE doesn't allow scripts for keybinds so i just made two "applications" with Menu Editor and created two entries with commands sh ~/.config/rofi/launcher.sh and the same for powermenu. Those "applications" can then be bound to a key-combination.
 
