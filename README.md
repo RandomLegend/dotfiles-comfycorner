@@ -29,4 +29,6 @@
 
 ## After pasting the KanagawaRamen.colors in your ~/.local/share/color-schemes folder you have to manually apply it via the colors settings in your system settings.
 
+## You have to install jgmenu if you want to use the application launcher in my polybar BAR/1. To run polybar as in my setup you have to do: polybar 1 & polybar 2 & polybar 3 - You can make a simple bash-script, put those commands in there and let your DE / WM run that script on startup.
+
 ## I hope i didn't forget anything that you saw in my post...if yes and you want something specific you can just contact me either here or on reddit and i give you what you crave.
